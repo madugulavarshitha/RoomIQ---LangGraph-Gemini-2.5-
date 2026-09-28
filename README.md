@@ -1,4 +1,4 @@
-# RoomIQ – README
+# RoomIQ
 
 **RoomIQ** is a multi-agent AI workplace management system that helps organizations manage rooms, desks, bookings, occupancy, and space utilization.
 
